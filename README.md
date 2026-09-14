@@ -11,11 +11,10 @@
 - Engenharia Industrial
 
 ## Tecnologias
-
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
-https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+<i class="devicon-amazonwebservices-plain-wordmark"></i>
+<i class="devicon-cplusplus-plain colored"></i>
+<i class="devicon-python-plain-wordmark"></i>
+          
 
 ## Projetos em destaque
 
