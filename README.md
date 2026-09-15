@@ -48,3 +48,7 @@
 ![FMEA](https://img.shields.io/badge/FMEA-1F2937?style=flat-square)
 ![FTA](https://img.shields.io/badge/FTA-1F2937?style=flat-square)
 ![Instrumentação](https://img.shields.io/badge/Instrumenta%C3%A7%C3%A3o-1F2937?style=flat-square)
+
+### Tocando agora
+
+<a href="https://open.spotify.com/user/12159242833"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12159242833&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true" alt="Tocando agora no Spotify"></a>
