@@ -26,7 +26,7 @@
 | Projeto | O que é |
 |---|---|
 | **PAPEL** | Plataforma web interna de planejamento de projetos industriais na Eldorado Brasil, para uma carteira de 65 projetos. Python, PostgreSQL e API própria, com mais de 1.600 testes automatizados. |
-| **Controle de potência para AeroDesign** | Controle PID com ação antecipatória da potência do motor de um avião de competição, feito em ESP32. O modelo do motor foi levantado em bancada. É o meu trabalho de graduação. |
+| **[Controle de potência para AeroDesign](https://github.com/Guilherme-Filardi/controle-potencia-aerodesign)** | Controle PID com ação antecipatória da potência do motor de um avião de competição, feito em ESP32. O modelo do motor foi levantado em bancada. É o meu trabalho de graduação. |
 | **Meu Civic G8** | Datalogger com ESP32 que lê a rede do carro pela porta OBD-II e manda os dados por Bluetooth para um aplicativo Android próprio. |
 | **Bancada pino sobre disco** | Instrumentação de baixo custo para ensaio de atrito, montada por R$ 600. Artigo aceito na revista RECRIAI em 2026. |
 
