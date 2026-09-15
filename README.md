@@ -14,10 +14,11 @@
 
 ### Sobre mim
 
-- Engenharia Elétrica na UNESP de Ilha Solteira.
-- Engenharia Industrial na Eldorado Brasil, com planejamento de projetos e controle de CAPEX.
-- 5 anos na equipe Zebra Aerodesign, com sistemas elétricos, eletrônica embarcada, RF e instrumentação.
-- Safety assessment dos sistemas elétricos da equipe, seguindo a SAE ARP4761 (FHA, FMEA, FTA e CCA).
+- Engenharia Elétrica na UNESP de Ilha Solteira, com reconhecimento de mérito acadêmico como melhor aluno da turma.
+- Engenharia Industrial na Eldorado Brasil, com planejamento e controle de projetos de CAPEX.
+- Mais de 5 anos na equipe Zebra Aerodesign, como Gerente de Projetos Elétricos e Safety Assessment e, antes, Gerente de Telemetria e Sistemas Embarcados.
+- Análises de risco e confiabilidade (FMEA e FTA) seguindo a SAE ARP4761.
+- Duas bolsas de pesquisa do CNPq em instrumentação, com artigo científico aceito para publicação.
 - Interesse em instrumentação, automação, confiabilidade e análise de falhas.
 
 ### Projetos em destaque
@@ -34,6 +35,9 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
