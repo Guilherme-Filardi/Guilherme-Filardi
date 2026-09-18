@@ -11,6 +11,7 @@
 </p>
 
 ---
+"Regret is proof that you've grown. The fact that you wish you had done better means you are already someone who would." 
 
 ### Sobre mim
 
@@ -56,3 +57,17 @@
 ### Tocando agora
 
 <a href="https://open.spotify.com/user/12159242833"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12159242833&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true" alt="Tocando agora no Spotify"></a>
+
+I am not a good man
+and maybe i'll never be
+
+but the sky knows
+that i try my harder
+
+to be better in every way.
+
+that despite my sins
+and my lowest ways
+
+i try to be a better man
+than the one i was yesterday.
