@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <em>"Regret is proof that you've grown. The fact that you wish you had done better means you are already someone who would."</em>
+  <img src="image_4185ee.jpg" alt="Regret is proof you've grown. The fact that you wish you had done better means you are already someone who would." width="450">
 </p>
 
 ---
@@ -61,20 +61,27 @@
 
 ### Tocando agora
 
-<a href="https://open.spotify.com/user/12159242833"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12159242833&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true" alt="Tocando agora no Spotify"></a>
+<p align="center">
+  <a href="https://open.spotify.com/user/12159242833"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12159242833&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true" alt="Tocando agora no Spotify"></a>
+</p>
+
+> *"Take time with a wounded hand*  
+> *'Cause it likes to heal*  
+> *I'm half the man I used to be*  
+> *This I feel as the dawn"*  
+> — **Stone Temple Pilots, Creep**
 
 <br>
 
-> *I am not a good man* <br>
-> *and maybe i'll never be* <br>
-> <br>
-> *but the sky knows* <br>
-> *that i try my harder* <br>
-> <br>
-> *to be better in every way.* <br>
-> <br>
-> *that despite my sins* <br>
-> *and my lowest ways* <br>
-> <br>
-> *i try to be a better man* <br>
+> *I am not a good man*  
+> *and maybe i'll never be*  
+>   
+> *but the sky knows*  
+> *that i try my harder*  
+> *to be better in every way.*  
+>   
+> *that despite my sins*  
+> *and my lowest ways*  
+>   
+> *i try to be a better man*  
 > *than the one i was yesterday.*
