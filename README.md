@@ -65,11 +65,6 @@
   <a href="https://open.spotify.com/user/12159242833"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12159242833&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true" alt="Tocando agora no Spotify"></a>
 </p>
 
-> *"Take time with a wounded hand*  
-> *'Cause it likes to heal*  
-> *I'm half the man I used to be*  
-> *This I feel as the dawn"*  
-> — **Stone Temple Pilots, Creep**
 
 <br>
 
