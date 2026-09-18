@@ -8,7 +8,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/guilhermefilardifeis"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:guifilardi@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-  <a "Regret is proof that you've grown. The fact that you wish you had done better means you are already someone who would." ></a>
+</p>
+
+<p align="center">
+  <em>"Regret is proof that you've grown. The fact that you wish you had done better means you are already someone who would."</em>
 </p>
 
 ---
@@ -54,20 +57,24 @@
 ![FTA](https://img.shields.io/badge/FTA-1F2937?style=flat-square)
 ![Instrumentação](https://img.shields.io/badge/Instrumenta%C3%A7%C3%A3o-1F2937?style=flat-square)
 
+---
+
 ### Tocando agora
 
 <a href="https://open.spotify.com/user/12159242833"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12159242833&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true" alt="Tocando agora no Spotify"></a>
 
-I am not a good man
-and maybe i'll never be
+<br>
 
-but the sky knows
-that i try my harder
-
-to be better in every way.
-
-that despite my sins
-and my lowest ways
-
-i try to be a better man
-than the one i was yesterday.
+> *I am not a good man* <br>
+> *and maybe i'll never be* <br>
+> <br>
+> *but the sky knows* <br>
+> *that i try my harder* <br>
+> <br>
+> *to be better in every way.* <br>
+> <br>
+> *that despite my sins* <br>
+> *and my lowest ways* <br>
+> <br>
+> *i try to be a better man* <br>
+> *than the one i was yesterday.*
