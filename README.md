@@ -23,6 +23,7 @@
 - Mais de 5 anos na equipe Zebra Aerodesign, como Gerente de Projetos Elétricos e Safety Assessment e, antes, Gerente de Telemetria e Sistemas Embarcados.
 - Análises de risco e confiabilidade (FMEA e FTA) seguindo a SAE ARP4761.
 - Duas bolsas de pesquisa do CNPq em instrumentação, com artigo científico aceito para publicação.
+- Melhor alunda da turma 2021/2 - UNESP FEIS, Engenheria Elétrica
 - Interesse em instrumentação, automação, confiabilidade e análise de falhas.
 
 ### Projetos em destaque
@@ -50,12 +51,25 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-### Engenharia de segurança e confiabilidade
+### Competências em Engenharia 
 
-![Safety Assessment](https://img.shields.io/badge/Safety%20Assessment-SAE%20ARP4761-1F2937?style=flat-square)
-![FMEA](https://img.shields.io/badge/FMEA-1F2937?style=flat-square)
-![FTA](https://img.shields.io/badge/FTA-1F2937?style=flat-square)
-![Instrumentação](https://img.shields.io/badge/Instrumenta%C3%A7%C3%A3o-1F2937?style=flat-square)
+**Projetos e Automação:**<br>
+![Projetos Elétricos](https://img.shields.io/badge/Projetos%20Elétricos-1F2937?style=flat-square)
+![Máquinas e Acionamentos](https://img.shields.io/badge/Máquinas%20e%20Acionamentos-1F2937?style=flat-square)
+![Controle e Automação](https://img.shields.io/badge/Controle%20e%20Automação-1F2937?style=flat-square)
+![Controle PID e Feedforward](https://img.shields.io/badge/Controle%20PID%20e%20Feedforward-1F2937?style=flat-square)
+
+**Instrumentação e Embarcados:**<br>
+![Sistemas Embarcados](https://img.shields.io/badge/Sistemas%20Embarcados-1F2937?style=flat-square)
+![Instrumentação](https://img.shields.io/badge/Instrumentação-1F2937?style=flat-square)
+![Telemetria e Aquisição de Dados](https://img.shields.io/badge/Telemetria%20e%20Aquisição%20de%20Dados-1F2937?style=flat-square)
+![Sensores e Protocolos](https://img.shields.io/badge/Sensores%20e%20Protocolos%20(I2C,%20MQTT,%20SBUS)-1F2937?style=flat-square)
+
+**Confiabilidade:**<br>
+![Safety Assessment (ARP4761)](https://img.shields.io/badge/Safety%20Assessment%20(ARP4761)-1F2937?style=flat-square)
+![FMEA e FTA](https://img.shields.io/badge/FMEA%20e%20FTA-1F2937?style=flat-square)
+![Manutenção Preditiva](https://img.shields.io/badge/Manutenção%20Preditiva-1F2937?style=flat-square)
+
 
 ---
 
@@ -64,7 +78,6 @@
 <p align="center">
   <a href="https://open.spotify.com/user/12159242833"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12159242833&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true" alt="Tocando agora no Spotify"></a>
 </p>
-
 
 <br>
 
