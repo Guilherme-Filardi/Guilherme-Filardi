@@ -2,7 +2,7 @@
 
 <p align="center">
   Engenheiro Eletricista · UNESP Ilha Solteira<br>
-  Instrumentação · Automação · Confiabilidade
+  Instrumentação · Automação · Confiabilidade de Sistemas
 </p>
 
 <p align="center">
@@ -22,13 +22,14 @@
 - Engenharia Industrial na Eldorado Brasil, com planejamento e controle de projetos de CAPEX.
 - Mais de 5 anos na equipe Zebra Aerodesign, como Gerente de Projetos Elétricos e Safety Assessment e, antes, Gerente de Telemetria e Sistemas Embarcados.
 - Bolsista de iniciação científica CNPq com artigo científico aceito para publicação.
-- Interesse em programação, IA, Python, data analysis, instrumentação, automação, confiabilidade, análise de falhas e safety assessment.
+- Aplicação de engenharia de confiabilidade (FMEA, FTA, Modelagem de Ameaças e Safety Case) tanto em sistemas críticos aeroespaciais (SAE ARP4761) quanto no ciclo de vida de software e arquitetura de dados corporativos.
+- Interesse em engenharia de software (Clean Architecture, DDD), IA, Python, análise de dados, instrumentação, automação e safety assessment estruturado.
 
 ### Projetos em destaque
 
 | Projeto | O que é |
 |---|---|
-| **PAPEL** | Plataforma web interna de planejamento de projetos industriais na Eldorado Brasil, para uma carteira de mais de 50 projetos anualmente. Python, PostgreSQL e API própria, com mais de 2.000 testes automatizados. |
+| **PAPEL** | Plataforma web interna de planejamento de projetos industriais na Eldorado Brasil, para uma carteira de mais de 50 projetos anualmente. Arquitetura validada por processos de Safety Assessment, garantindo disponibilidade, integridade e mitigação de data loss. Python, PostgreSQL e API própria, com mais de 2.000 testes automatizados. |
 | **[Controle de potência para AeroDesign](https://github.com/Guilherme-Filardi/controle-potencia-aerodesign)** | Controle PID com ação antecipatória da potência do motor de um avião de competição, feito em ESP32. O modelo do motor foi levantado em bancada. É o meu trabalho de graduação. |
 | **Meu Civic G8** | Datalogger com ESP32 que lê a rede do carro pela porta OBD-II e manda os dados por Bluetooth para um aplicativo Android próprio. |
 | **Bancada pino sobre disco** | Instrumentação de baixo custo para ensaio de atrito, montada por R$ 600. Artigo aceito na revista RECRIAI em 2026. |
@@ -64,10 +65,12 @@
 ![Telemetria e Aquisição de Dados](https://img.shields.io/badge/Telemetria%20e%20Aquisição%20de%20Dados-1F2937?style=flat-square)
 ![Sensores e Protocolos](https://img.shields.io/badge/Sensores%20e%20Protocolos%20(I2C,%20MQTT,%20SBUS)-1F2937?style=flat-square)
 
-**Confiabilidade e Manutenção:**<br>
-![Safety Assessment (ARP4761)](https://img.shields.io/badge/Safety%20Assessment%20(ARP4761)-1F2937?style=flat-square)
-![FMEA e FTA](https://img.shields.io/badge/FMEA%20e%20FTA-1F2937?style=flat-square)
-![Manutenção Preditiva](https://img.shields.io/badge/Manutenção%20Preditiva-1F2937?style=flat-square)
+**Confiabilidade, Arquitetura e Continuidade de Sistemas:**<br>
+![Safety Assessment e Safety Case](https://img.shields.io/badge/Safety%20Assessment%20e%20Safety%20Case-1F2937?style=flat-square)
+![FMEA e FTA Avançado](https://img.shields.io/badge/FMEA%20e%20FTA%20Avançado-1F2937?style=flat-square)
+![Threat Modeling (Modelagem de Ameaças)](https://img.shields.io/badge/Threat%20Modeling%20(Modelagem%20de%20Ameaças)-1F2937?style=flat-square)
+![Business Impact Analysis (RTO / RPO)](https://img.shields.io/badge/Business%20Impact%20Analysis%20(RTO%20/%20RPO)-1F2937?style=flat-square)
+![Clean Architecture e DDD](https://img.shields.io/badge/Clean%20Architecture%20e%20DDD-1F2937?style=flat-square)
 
 **Gestão, Liderança e Soft Skills:**<br>
 ![Gestão de Projetos de CAPEX](https://img.shields.io/badge/Gestão%20de%20Projetos%20de%20CAPEX-1F2937?style=flat-square)
