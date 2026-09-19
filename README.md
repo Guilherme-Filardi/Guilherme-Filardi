@@ -21,9 +21,8 @@
 - Engenharia Elétrica na UNESP de Ilha Solteira, com reconhecimento de mérito acadêmico como melhor aluno da turma.
 - Engenharia Industrial na Eldorado Brasil, com planejamento e controle de projetos de CAPEX.
 - Mais de 5 anos na equipe Zebra Aerodesign, como Gerente de Projetos Elétricos e Safety Assessment e, antes, Gerente de Telemetria e Sistemas Embarcados.
-- Análises de risco e confiabilidade (FMEA e FTA) seguindo a SAE ARP4761.
-- Duas bolsas de pesquisa do CNPq em instrumentação, com artigo científico aceito para publicação.
-- Interesse em instrumentação, automação, confiabilidade e análise de falhas.
+- Bolsista de iniciação científica CNPq com artigo científico aceito para publicação.
+- Interesse em programação, IA, Python, data analysis, instrumentação, automação, confiabilidade, análise de falhas e safety assessment.
 
 ### Projetos em destaque
 
@@ -75,6 +74,10 @@
 ![Liderança Técnica](https://img.shields.io/badge/Liderança%20Técnica-1F2937?style=flat-square)
 ![Controle Físico-Financeiro](https://img.shields.io/badge/Controle%20Físico--Financeiro-1F2937?style=flat-square)
 ![Comunicação Interdisciplinar](https://img.shields.io/badge/Comunicação%20Interdisciplinar-1F2937?style=flat-square)
+![Responsabilidade](https://img.shields.io/badge/Responsabilidade-1F2937?style=flat-square)
+![Atitude de Dono](https://img.shields.io/badge/Atitude%20de%20Dono-1F2937?style=flat-square)
+![Trabalho em Equipe](https://img.shields.io/badge/Trabalho%20em%20Equipe-1F2937?style=flat-square)
+![Inglês Fluente](https://img.shields.io/badge/Inglês%20Fluente-1F2937?style=flat-square)
 
 ---
 
