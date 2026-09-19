@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="grovyle.jpg" alt="Regret is proof you've grown. The fact that you wish you had done better means you are already someone who would." width="450">
+  <img src="grovyle.jpeg" alt="Regret is proof you've grown. The fact that you wish you had done better means you are already someone who would." width="450">
 </p>
 
 ---
