@@ -23,14 +23,13 @@
 - Mais de 5 anos na equipe Zebra Aerodesign, como Gerente de Projetos Elétricos e Safety Assessment e, antes, Gerente de Telemetria e Sistemas Embarcados.
 - Análises de risco e confiabilidade (FMEA e FTA) seguindo a SAE ARP4761.
 - Duas bolsas de pesquisa do CNPq em instrumentação, com artigo científico aceito para publicação.
-- Melhor alunda da turma 2021/2 - UNESP FEIS, Engenheria Elétrica
 - Interesse em instrumentação, automação, confiabilidade e análise de falhas.
 
 ### Projetos em destaque
 
 | Projeto | O que é |
 |---|---|
-| **PAPEL** | Plataforma web interna de planejamento de projetos industriais na Eldorado Brasil, para uma carteira de 65 projetos. Python, PostgreSQL e API própria, com mais de 1.600 testes automatizados. |
+| **PAPEL** | Plataforma web interna de planejamento de projetos industriais na Eldorado Brasil, para uma carteira de mais de 50 projetos anualmente. Python, PostgreSQL e API própria, com mais de 2.000 testes automatizados. |
 | **[Controle de potência para AeroDesign](https://github.com/Guilherme-Filardi/controle-potencia-aerodesign)** | Controle PID com ação antecipatória da potência do motor de um avião de competição, feito em ESP32. O modelo do motor foi levantado em bancada. É o meu trabalho de graduação. |
 | **Meu Civic G8** | Datalogger com ESP32 que lê a rede do carro pela porta OBD-II e manda os dados por Bluetooth para um aplicativo Android próprio. |
 | **Bancada pino sobre disco** | Instrumentação de baixo custo para ensaio de atrito, montada por R$ 600. Artigo aceito na revista RECRIAI em 2026. |
@@ -51,25 +50,31 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-### Competências em Engenharia 
+### Competências Profissionais
 
-**Projetos e Automação:**<br>
+**Engenharia Elétrica e Eletrônica:**<br>
 ![Projetos Elétricos](https://img.shields.io/badge/Projetos%20Elétricos-1F2937?style=flat-square)
+![Eletrônica Analógica e Digital](https://img.shields.io/badge/Eletrônica%20Analógica%20e%20Digital-1F2937?style=flat-square)
+![Processamento de Sinais](https://img.shields.io/badge/Processamento%20de%20Sinais-1F2937?style=flat-square)
 ![Máquinas e Acionamentos](https://img.shields.io/badge/Máquinas%20e%20Acionamentos-1F2937?style=flat-square)
-![Controle e Automação](https://img.shields.io/badge/Controle%20e%20Automação-1F2937?style=flat-square)
-![Controle PID e Feedforward](https://img.shields.io/badge/Controle%20PID%20e%20Feedforward-1F2937?style=flat-square)
 
-**Instrumentação e Embarcados:**<br>
+**Controle, Automação e Embarcados:**<br>
 ![Sistemas Embarcados](https://img.shields.io/badge/Sistemas%20Embarcados-1F2937?style=flat-square)
+![Controle PID e Feedforward](https://img.shields.io/badge/Controle%20PID%20e%20Feedforward-1F2937?style=flat-square)
 ![Instrumentação](https://img.shields.io/badge/Instrumentação-1F2937?style=flat-square)
 ![Telemetria e Aquisição de Dados](https://img.shields.io/badge/Telemetria%20e%20Aquisição%20de%20Dados-1F2937?style=flat-square)
 ![Sensores e Protocolos](https://img.shields.io/badge/Sensores%20e%20Protocolos%20(I2C,%20MQTT,%20SBUS)-1F2937?style=flat-square)
 
-**Confiabilidade:**<br>
+**Confiabilidade e Manutenção:**<br>
 ![Safety Assessment (ARP4761)](https://img.shields.io/badge/Safety%20Assessment%20(ARP4761)-1F2937?style=flat-square)
 ![FMEA e FTA](https://img.shields.io/badge/FMEA%20e%20FTA-1F2937?style=flat-square)
 ![Manutenção Preditiva](https://img.shields.io/badge/Manutenção%20Preditiva-1F2937?style=flat-square)
 
+**Gestão, Liderança e Soft Skills:**<br>
+![Gestão de Projetos de CAPEX](https://img.shields.io/badge/Gestão%20de%20Projetos%20de%20CAPEX-1F2937?style=flat-square)
+![Liderança Técnica](https://img.shields.io/badge/Liderança%20Técnica-1F2937?style=flat-square)
+![Controle Físico-Financeiro](https://img.shields.io/badge/Controle%20Físico--Financeiro-1F2937?style=flat-square)
+![Comunicação Interdisciplinar](https://img.shields.io/badge/Comunicação%20Interdisciplinar-1F2937?style=flat-square)
 
 ---
 
