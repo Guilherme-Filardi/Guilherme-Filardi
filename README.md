@@ -13,12 +13,12 @@
 <p align="center">
   <i>"Regret is proof you've grown. The fact that you wish you had done better<br>
   means you are already someone who would."</i><br>
-  <sub>🌿 Grovyle, em Pokémon Mystery Dungeon: Explorers of Sky</sub>
+  <sub>Grovyle, em Pokémon Mystery Dungeon: Explorers of Sky</sub>
 </p>
 
 ---
 
-### 🌻 Quem sou
+### Quem sou
 
 Sou eletricista de formação e acabo escrevendo bastante software. Gosto de problema que dá para medir: o número antes, o número depois e o motivo da diferença.
 
@@ -27,7 +27,7 @@ Sou eletricista de formação e acabo escrevendo bastante software. Gosto de pro
 - **UNESP Ilha Solteira**: reconhecimento de mérito como melhor aluno da turma e bolsa de iniciação científica do CNPq, com artigo aceito.
 - **Confiabilidade**: FMEA, FTA, modelagem de ameaças e safety case, usados tanto em avião de competição (SAE ARP4761) quanto em software e dado corporativo.
 
-### 🥀 Projetos
+### Projetos
 
 **Engenharia e embarcados**
 
@@ -45,32 +45,32 @@ Sou eletricista de formação e acabo escrevendo bastante software. Gosto de pro
 | **[Análise Ethereum](https://github.com/Guilherme-Filardi/analise-ethereum)** | Estudo do ETH com dado público, de 2017 a 2026: risco de compra, gás por hora, previsão diária conferida no dia seguinte e um site para ver tudo. Python, FastAPI e React. | A faixa de 80% acertou 80,3% dos dias. A direção (sobe ou cai) acertou 51,7%, que é cara ou coroa: o tamanho do movimento é previsível, a direção não. |
 | **Extrator de eventos corporativos** *(repositório privado)* | Lê avisos aos acionistas em PDF com o Claude e devolve 23 campos prontos para cadastro. Cada valor vem com o trecho do PDF que o prova, e regras em Python decidem o que vai para revisão humana. | 8 documentos e 184 campos, com gabarito para medir o acerto. 25 testes rodando no GitHub a cada envio. |
 
-### 🌻 Ferramentas
+### Ferramentas
 
 **Embarcados e hardware**<br>
-![C++](https://img.shields.io/badge/C++-1A1216?style=flat-square&logo=cplusplus&logoColor=E8B931)
-![ESP32](https://img.shields.io/badge/ESP32-1A1216?style=flat-square&logo=espressif&logoColor=E8B931)
-![Arduino](https://img.shields.io/badge/Arduino-1A1216?style=flat-square&logo=arduino&logoColor=E8B931)
-![KiCad](https://img.shields.io/badge/KiCad-1A1216?style=flat-square&logo=kicad&logoColor=E8B931)
-![MATLAB](https://img.shields.io/badge/MATLAB-1A1216?style=flat-square)
-![Simulink](https://img.shields.io/badge/Simulink-1A1216?style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square)
 
 **Software e dados**<br>
-![Python](https://img.shields.io/badge/Python-1A1216?style=flat-square&logo=python&logoColor=E8B931)
-![pandas](https://img.shields.io/badge/pandas-1A1216?style=flat-square&logo=pandas&logoColor=E8B931)
-![FastAPI](https://img.shields.io/badge/FastAPI-1A1216?style=flat-square&logo=fastapi&logoColor=E8B931)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1216?style=flat-square&logo=postgresql&logoColor=E8B931)
-![TypeScript](https://img.shields.io/badge/TypeScript-1A1216?style=flat-square&logo=typescript&logoColor=E8B931)
-![React](https://img.shields.io/badge/React-1A1216?style=flat-square&logo=react&logoColor=E8B931)
-![JavaScript](https://img.shields.io/badge/JavaScript-1A1216?style=flat-square&logo=javascript&logoColor=E8B931)
-![HTML](https://img.shields.io/badge/HTML-1A1216?style=flat-square&logo=html5&logoColor=E8B931)
-![CSS](https://img.shields.io/badge/CSS-1A1216?style=flat-square&logo=css&logoColor=E8B931)
-![Claude API](https://img.shields.io/badge/Claude%20API-1A1216?style=flat-square&logo=anthropic&logoColor=E8B931)
-![Swift](https://img.shields.io/badge/Swift-1A1216?style=flat-square&logo=swift&logoColor=E8B931)
-![Flutter](https://img.shields.io/badge/Flutter-1A1216?style=flat-square&logo=flutter&logoColor=E8B931)
-![Excel VBA](https://img.shields.io/badge/Excel%20VBA-1A1216?style=flat-square&logo=microsoftexcel&logoColor=E8B931)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**🌹 O que sei fazer, em palavras**
+**O que sei fazer, em palavras**
 
 - **Elétrica e eletrônica:** projeto elétrico, eletrônica analógica e digital, processamento de sinais, máquinas e acionamentos.
 - **Controle e embarcados:** PID com ação antecipatória, instrumentação, telemetria e aquisição de dados, protocolos I2C, MQTT, SBUS e S.Port.
@@ -80,10 +80,10 @@ Sou eletricista de formação e acabo escrevendo bastante software. Gosto de pro
 
 ---
 
-### 🥀 Tocando agora
+### Tocando agora
 
 <p align="center">
-  <a href="https://open.spotify.com/user/12159242833"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12159242833&cover_image=true&theme=default&show_offline=false&background_color=141014&interchange=false&profanity=false&hide_remaster=true" alt="Tocando agora no Spotify"></a>
+  <a href="https://open.spotify.com/user/12159242833"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12159242833&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true" alt="Tocando agora no Spotify"></a>
 </p>
 
 <br>
