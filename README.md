@@ -1,8 +1,8 @@
 <h1 align="center">Guilherme Filardi</h1>
 
 <p align="center">
-  Engenheiro Eletricista · UNESP Ilha Solteira<br>
-  Instrumentação · Automação · Confiabilidade de Sistemas
+  Engenharia Elétrica · UNESP Ilha Solteira<br>
+  Embarcados · Controle · Confiabilidade · Software e dados
 </p>
 
 <p align="center">
@@ -16,71 +16,65 @@
 
 ---
 
-### Sobre mim
+### Quem sou
 
-- Engenharia Elétrica na UNESP de Ilha Solteira, com reconhecimento de mérito acadêmico como melhor aluno da turma.
-- Engenharia Industrial na Eldorado Brasil, com planejamento e controle de projetos de CAPEX.
-- Mais de 5 anos na equipe Zebra Aerodesign, como Gerente de Projetos Elétricos e Safety Assessment e, antes, Gerente de Telemetria e Sistemas Embarcados.
-- Bolsista de iniciação científica CNPq com artigo científico aceito para publicação.
-- Aplicação de engenharia de confiabilidade (FMEA, FTA, Modelagem de Ameaças e Safety Case) tanto em sistemas críticos aeroespaciais (SAE ARP4761) quanto no ciclo de vida de software e arquitetura de dados corporativos.
-- Interesse em engenharia de software (Clean Architecture, DDD), IA, Python, análise de dados, instrumentação, automação e safety assessment estruturado.
+Sou eletricista de formação e acabo escrevendo bastante software. Gosto de problema que dá para medir: o número antes, o número depois e o motivo da diferença.
 
-### Projetos em destaque
+- **Eldorado Brasil**, Engenharia Industrial: planejamento e controle de projetos de CAPEX.
+- **Zebra Aerodesign**, mais de 5 anos: Gerente de Projetos Elétricos e Safety Assessment e, antes, Gerente de Telemetria e Sistemas Embarcados.
+- **UNESP Ilha Solteira**: reconhecimento de mérito como melhor aluno da turma e bolsa de iniciação científica do CNPq, com artigo aceito.
+- **Confiabilidade**: FMEA, FTA, modelagem de ameaças e safety case, usados tanto em avião de competição (SAE ARP4761) quanto em software e dado corporativo.
 
-| Projeto | O que é |
-|---|---|
-| **PAPEL** | Plataforma web interna de planejamento de projetos industriais na Eldorado Brasil, para uma carteira de mais de 50 projetos anualmente. Arquitetura validada por processos de Safety Assessment, garantindo disponibilidade, integridade e mitigação de data loss. Python, PostgreSQL e API própria, com mais de 2.000 testes automatizados. |
-| **[Controle de potência para AeroDesign](https://github.com/Guilherme-Filardi/controle-potencia-aerodesign)** | Controle PID com ação antecipatória da potência do motor de um avião de competição, feito em ESP32. O modelo do motor foi levantado em bancada. É o meu trabalho de graduação. |
-| **Meu Civic G8** | Datalogger com ESP32 que lê a rede do carro pela porta OBD-II e manda os dados por Bluetooth para um aplicativo Android próprio. |
-| **Bancada pino sobre disco** | Instrumentação de baixo custo para ensaio de atrito, montada por R$ 600. Artigo aceito na revista RECRIAI em 2026. |
+### Projetos
 
-### Linguagens e ferramentas
+**Engenharia e embarcados**
 
+| Projeto | O que é | O número |
+|---|---|---|
+| **[Controle de potência para AeroDesign](https://github.com/Guilherme-Filardi/controle-potencia-aerodesign)** | Meu trabalho de graduação. Um ESP32 entre o receptor e o ESC mantém a mesma potência para a mesma posição do manche, mesmo com a bateria descarregando. Controle PID com ação antecipatória, modelo do motor levantado em bancada e placa feita em casa. | Sem controle, a potência caiu de 858 W para 641 W em 78 s. O modelo erra 18,8 W em dados que não entraram no ajuste; o modelo linear usual erra 41,2 W. |
+| **Meu Civic G8** | Datalogger com ESP32 que lê a rede do carro pela porta OBD-II e manda os dados por Bluetooth para um aplicativo Android próprio. | |
+| **Bancada pino sobre disco** | Instrumentação de baixo custo para ensaio de atrito. | Montada por R$ 600. Artigo aceito na revista RECRIAI em 2026. |
+
+**Software e dados**
+
+| Projeto | O que é | O número |
+|---|---|---|
+| **PAPEL** | Plataforma web interna de planejamento de projetos industriais na Eldorado Brasil. Python, PostgreSQL, API própria e tela em React. A arquitetura passou por safety assessment para não perder dado nem ficar fora do ar. | Mais de 50 projetos por ano e mais de 2.000 testes automatizados. |
+| **[Análise Ethereum](https://github.com/Guilherme-Filardi/analise-ethereum)** | Estudo do ETH com dado público, de 2017 a 2026: risco de compra, gás por hora, previsão diária conferida no dia seguinte e um site para ver tudo. Python, FastAPI e React. | A faixa de 80% acertou 80,3% dos dias. A direção (sobe ou cai) acertou 51,7%, que é cara ou coroa: o tamanho do movimento é previsível, a direção não. |
+| **Extrator de eventos corporativos** *(repositório privado)* | Lê avisos aos acionistas em PDF com o Claude e devolve 23 campos prontos para cadastro. Cada valor vem com o trecho do PDF que o prova, e regras em Python decidem o que vai para revisão humana. | 8 documentos e 184 campos, com gabarito para medir o acerto. 25 testes rodando no GitHub a cada envio. |
+
+### Ferramentas
+
+**Embarcados e hardware**<br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+
+**Software e dados**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-### Competências Profissionais
+**O que sei fazer, em palavras**
 
-**Engenharia Elétrica e Eletrônica:**<br>
-![Projetos Elétricos](https://img.shields.io/badge/Projetos%20Elétricos-1F2937?style=flat-square)
-![Eletrônica Analógica e Digital](https://img.shields.io/badge/Eletrônica%20Analógica%20e%20Digital-1F2937?style=flat-square)
-![Processamento de Sinais](https://img.shields.io/badge/Processamento%20de%20Sinais-1F2937?style=flat-square)
-![Máquinas e Acionamentos](https://img.shields.io/badge/Máquinas%20e%20Acionamentos-1F2937?style=flat-square)
-
-**Controle, Automação e Embarcados:**<br>
-![Sistemas Embarcados](https://img.shields.io/badge/Sistemas%20Embarcados-1F2937?style=flat-square)
-![Controle PID e Feedforward](https://img.shields.io/badge/Controle%20PID%20e%20Feedforward-1F2937?style=flat-square)
-![Instrumentação](https://img.shields.io/badge/Instrumentação-1F2937?style=flat-square)
-![Telemetria e Aquisição de Dados](https://img.shields.io/badge/Telemetria%20e%20Aquisição%20de%20Dados-1F2937?style=flat-square)
-![Sensores e Protocolos](https://img.shields.io/badge/Sensores%20e%20Protocolos%20(I2C,%20MQTT,%20SBUS)-1F2937?style=flat-square)
-
-**Confiabilidade, Arquitetura e Continuidade de Sistemas:**<br>
-![Safety Assessment e Safety Case](https://img.shields.io/badge/Safety%20Assessment%20e%20Safety%20Case-1F2937?style=flat-square)
-![FMEA e FTA Avançado](https://img.shields.io/badge/FMEA%20e%20FTA%20Avançado-1F2937?style=flat-square)
-![Threat Modeling (Modelagem de Ameaças)](https://img.shields.io/badge/Threat%20Modeling%20(Modelagem%20de%20Ameaças)-1F2937?style=flat-square)
-![Business Impact Analysis (RTO / RPO)](https://img.shields.io/badge/Business%20Impact%20Analysis%20(RTO%20/%20RPO)-1F2937?style=flat-square)
-![Clean Architecture e DDD](https://img.shields.io/badge/Clean%20Architecture%20e%20DDD-1F2937?style=flat-square)
-
-**Gestão, Liderança e Soft Skills:**<br>
-![Gestão de Projetos de CAPEX](https://img.shields.io/badge/Gestão%20de%20Projetos%20de%20CAPEX-1F2937?style=flat-square)
-![Liderança Técnica](https://img.shields.io/badge/Liderança%20Técnica-1F2937?style=flat-square)
-![Controle Físico-Financeiro](https://img.shields.io/badge/Controle%20Físico--Financeiro-1F2937?style=flat-square)
-![Comunicação Interdisciplinar](https://img.shields.io/badge/Comunicação%20Interdisciplinar-1F2937?style=flat-square)
-![Responsabilidade](https://img.shields.io/badge/Responsabilidade-1F2937?style=flat-square)
-![Atitude de Dono](https://img.shields.io/badge/Atitude%20de%20Dono-1F2937?style=flat-square)
-![Trabalho em Equipe](https://img.shields.io/badge/Trabalho%20em%20Equipe-1F2937?style=flat-square)
-![Inglês Fluente](https://img.shields.io/badge/Inglês%20Fluente-1F2937?style=flat-square)
+- **Elétrica e eletrônica:** projeto elétrico, eletrônica analógica e digital, processamento de sinais, máquinas e acionamentos.
+- **Controle e embarcados:** PID com ação antecipatória, instrumentação, telemetria e aquisição de dados, protocolos I2C, MQTT, SBUS e S.Port.
+- **Confiabilidade:** safety assessment e safety case, FMEA, FTA, modelagem de ameaças, análise de impacto no negócio (RTO e RPO).
+- **Software:** Clean Architecture e DDD, API, testes automatizados, análise de dados e estatística.
+- **Gestão:** projetos de CAPEX, controle físico-financeiro, liderança técnica de equipe. Inglês fluente.
 
 ---
 
