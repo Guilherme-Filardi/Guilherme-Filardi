@@ -99,4 +99,6 @@ Sou eletricista de formação e acabo escrevendo bastante software. Gosto de pro
 > *and my lowest ways*  
 >   
 > *i try to be a better man*  
-> *than the one i was yesterday.*
+> *than the one i was yesterday.*  
+>  
+> `@}-,-'--`
